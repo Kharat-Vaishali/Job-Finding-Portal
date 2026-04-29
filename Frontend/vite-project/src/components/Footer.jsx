@@ -20,7 +20,7 @@ const Footer = () => {
           <h4>Support</h4>
           <ul>
             <li>Street No.007 Pirangut-Mulshi-Maharashtra, Pune</li>
-            <li>nichenest@gmail.com</li>
+            <li>Vaishali@gmail.com</li>
             <li>+91 3106507521</li>
           </ul>
         </div>
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="copyright">
-        &copy; CopyRight 2024. All Rights Reserved By VaishaliKharat
+        &copy; CopyRight 2025. All Rights Reserved By Vaishali Kharat
       </div>
     </>
   );
