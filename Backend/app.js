@@ -22,7 +22,8 @@ config({path: "./config/config.env"});
 app.use
 (cors({
     // origin : [process.env.FRONTEND_URL],
-    origin: ["https://job-finding-portal-rsn6.vercel.app"],
+   // origin: ["https://job-finding-portal-rsn6.vercel.app"],
+   origin: ["https://job-finding-portal-f56s.vercel.app"],
     methods :["GET","POST","PUT","DELETE"],
     credentials :true,
 })
